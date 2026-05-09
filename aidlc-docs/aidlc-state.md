@@ -52,3 +52,11 @@ Implement units in sequence:
 10. **U10** Demo Preparation — scenario, screenshots, fallback video.
 
 Stop conditions per unit: see "Done when" in `04-units-of-work.md`.
+
+## Artifact Layout Note
+
+For hackathon entry speed, inception artifacts are currently stored directly under `aidlc-docs/` with numbered filenames. The contents map to the AI-DLC Inception stages:
+- `01-requirements-analysis.md` → Inception / Requirements Analysis
+- `02-user-stories.md` → Inception / User Stories
+- `03-application-design.md` → Inception / Application Design
+- `04-units-of-work.md` → Inception / Units Generation
