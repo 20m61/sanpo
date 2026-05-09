@@ -1,6 +1,6 @@
 # sanpo
 
-**2人でも、3人さんぽ。**
+**2人でも、さんぽ。**
 
 sanpo is an XR + notification service that brings a cute ghost-like third friend into outings between two people.
 
@@ -8,7 +8,7 @@ During an outing, sanpo runs on both users' smartphones, understands the outing 
 
 ## 日本語サマリー
 
-sanpoは、2人でのお出かけに「かわいいAIの3人目」を連れていく、XR＋通知型のサービスです。
+sanpoは、2人でのお出かけに「3人目」を連れていく、XR＋通知型のサービスです。
 
 2人で出かけると、会話を続ける責任が2人だけに集中し、沈黙や話題切れが気まずさにつながることがあります。sanpoは、お出かけプラン、時間、位置、関係性、これまでの文脈をもとに、通知やXR上の存在としてやさしく会話を仕掛けます。
 
